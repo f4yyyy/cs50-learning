@@ -19,3 +19,14 @@
 * Next goal: Finish the remaining Week 0 lecture and prepare for Week 1.
 
 **Progress:** 40 minutes of lecture completed today.
+
+## Day 5 — CS50x 2026
+
+* Watched 1 hour and 11 minutes of the Week 1 lecture.
+* Learned about libraries, assignment (`=`), and terminal commands.
+* Practiced a short quiz and scored 3/3.
+* Next: Continue Week 1 and begin practicing C programming.
+
+### Reflection
+
+I'm building my programming fundamentals step by step and documenting my progress on GitHub.
