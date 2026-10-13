@@ -30,3 +30,9 @@
 ### Reflection
 
 I'm building my programming fundamentals step by step and documenting my progress on GitHub.
+
+## GitHub Mission 4
+
+- Created my first Git branch.
+- Learning how branches allow developers to work separately from main.
+- Next: Practise making changes and merging them.
